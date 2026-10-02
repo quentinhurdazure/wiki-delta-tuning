@@ -1,0 +1,20 @@
+models/
+
+# Generated Python files and environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Model weights and common binary artifacts
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.gguf
+*.exe
+*.dll
+*.so
+*.dylib
